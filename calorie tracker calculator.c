@@ -82,3 +82,9 @@ int main() { // handles user input, calls the necessary functions, and manages t
 
     return 0;
 }
+// GROUP C MEMBERS
+//1. JAKONY NICODEMUS 2024/DCS/DAY/0262
+//2. AYO EMMANUEL 2024/DCS/DAY/0241
+//3. ODYEK JOSHUA 2024/DCS/DAY/0675
+//4. PULE HENRY 2024/DCS/DAY/0307
+//5. OWINY JAMES FRANCIS 2024/DCS/DAY/1584
